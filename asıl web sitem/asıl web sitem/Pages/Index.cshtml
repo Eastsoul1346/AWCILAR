@@ -1,0 +1,264 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<section id="anaSayfa">
+    <div id="carouselExampleCaptions" class="carousel slide carousel_height "  data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        </div>
+        <div class="carousel-inner carousel_height">
+            <div class="carousel-item active carousel_height">
+                <img src="~/img/basıkk - kopya.jpg"class="d-block w-100 h-100 " alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    
+                  
+                </div>
+            </div>
+            <div class="carousel-item carousel_height">
+                <img src="~/img/pugeot - kopya.jpg"class="d-block w-100  h-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                   
+                </div>
+            </div>
+            <div class="carousel-item carousel_height">
+                <img src="~/img/supra çakmsı - kopya.jpg"class="d-block w-100 h-100 " alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    
+                </div>
+            </div>
+            <div class="carousel-item carousel_height">
+                <img src="~/img/supra çakması 2 - kopya.jpg"class="d-block w-100 h-100 " alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</section>
+<section id="hakkimizda" class="container">
+
+    <h2 class="display-5 text-danger">Biz Kimiz</h2>
+    <div class="row">
+        <div class="col-lg-8 col-sm-12">
+            <div class="d-flex flex-column h-100 justify-content-center">
+                <p class="text-light"> Biz 2016 yılında Bilal ARSLAN tarafından kurulan Avcılar Works araç kişisileleştirme merkezi olarak hizmet vermekteyiz.Ucuz işcilikle kaliteli iş mottosuyla sizlere en iyi hizmet verebilmek için çalışıyoruz.</p>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-12">
+            <img src="~/img/156174057_277700160392674_3054330795690670288_n.jpg" class="img-fluid" />
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-4 col-sm-12 ">
+            <img src="~/img/164109449_2749274961864040_2084322851833890755_n.jpg"class="img-fluid order-2" />
+        </div>
+        <div class="col-md-8 col-sm-12">
+            <div class="d-flex flex-column h-100 justify-content-center">
+                
+                <p class="text-light">kalite ve güvenle aracınızı kişiselleştirmek istiyorsanız Avcılar Works tam adresidir.sektörde geçirdiğmiz onca yılın tecrübesiyle birlikte sizlere hizmet vermekten gurur duyuyoruz </p>
+            </div>
+        </div>
+
+    </div>
+   </section>
+<section id="Urunler" class="container">
+    <h2 class="display-5  text-danger">Ürünler</h2>
+    <div class="URUNLER">
+    <div class="row ">
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col-md-4 col-sm-12">
+                    <div class="card h-100">
+                        <img src="~/img/qashqai-carplay.jpg"   class="card-img-top" alt="..."/>
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        </div>
+                       
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="card h-100">
+                      <img src="~/img/led-garage-lightning-ii-black-edition-9006-hb4-14-p-2.jpg"  class="card-img-top" alt="..."/>
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="card h-100">
+                        <img src="~/img/3m-cs-serisi-cam-filmleri.jpg" class="card-img-top" alt="..."/>
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+           </div>
+
+      
+    
+   </section>
+<section id="Blog" class="container">
+    <h2 class="display-5 text-danger">Blog</h2>
+    <div class="row">
+        <div class="col-sm-12 col-md-4 g-4">
+            <div class="card">
+                <img src="~/img/pngwing.com.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="lead text-danger">zenon led</h5>
+                    <h6 class="card-title text-danger">Hasan Hüseyin</h6>
+                    <p class="card-text text-black">Güler yüzlüydüler gayet iyi ilgilendiler ucuz işcilik le gayet hızlıydı fiyat performan ürünü resmen harika.</p>
+                    <ul class="list-inline">
+                        <li class="list-inline-item">
+                            <small class="text-muted">
+                                <i class="bi bi-clock">
+                                    <span class="align-middle">2 gün önce</span>
+                                </i>
+                            </small>
+                        </li>
+                        <li class="list-inline-item">
+                            <small class="text-muted">
+                                <i class="bi bi-chat-left-text">
+                                    <span class="align-middle">10</span>
+                                </i>
+                            </small>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-4 g-4">
+            <div class="card">
+                <img src="~/img/pngwing.com.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="lead text-danger">Cam filmi</h5>
+                    <h6 class="card-title text-danger">Arda Berat</h6>
+                    <p class="card-text text-black">Güler yüzlüydüler gayet iyi ilgilendiler ucuz işcilik le gayet hızlıydı fiyat performan ürünü resmen harika.</p>
+                    <ul class="list-inline">
+                        <li class="list-inline-item">
+                            <small class="text-muted">
+                                <i class="bi bi-clock">
+                                    <span class="align-middle">2 gün önce</span>
+                                </i>
+                            </small>
+                        </li>
+                        <li class="list-inline-item">
+                            <small class="text-muted">
+                                <i class="bi bi-chat-left-text">
+                                    <span class="align-middle">10</span>
+                                </i>
+                            </small>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-4 g-4">
+            <div class="card">
+                <img src="~/img/pngwing.com.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="lead text-danger">multimedya</h5>
+                    <h6 class="card-title text-danger">Mustafa Bal</h6>
+                    <p class="card-text text-black">Güler yüzlüydüler gayet iyi ilgilendiler ucuz işcilik le gayet hızlıydı fiyat performan ürünü resmen harika.</p>
+                    <ul class="list-inline">
+                        <li class="list-inline-item">
+                            <small class="text-muted">
+                                <i class="bi bi-clock">
+                                    <span class="align-middle">2 gün önce</span>
+                                </i>
+                            </small>
+                        </li>
+                        <li class="list-inline-item">
+                            <small class="text-muted">
+                                <i class="bi bi-chat-left-text">
+                                    <span class="align-middle">10</span>
+                                </i>
+                            </small>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </section>
+<section id="İletisim" class="container">
+
+    <h2 class="display-5 text-danger">İletişim</h2>
+    <div class="row">
+        <div class="col-md-6  col-sm-12 ">
+            <div class="d-flex flex-column h-100 justify-content-center">
+                <form class="form">
+                    <div class="form-group">
+                        <label for="form-ad"><span class="text-white">Ad</span></label>
+                        <input type="email" class="form-control" id="form-ad" placeholder="Ad">
+                    </div>
+                    <div class="form-group">
+                        <label for="form-email"><span class="text-white">Mail adresinizi giriniz</span></label>
+                        <input type="email" class="form-control" id="form-email" placeholder="örn*mail@gmail." />
+                    </div>
+                    <div class="form-group">
+                        <label for="form-subject"><span class="text-white">Telefon numarsı</span></label>
+                        <input type="number" class="form-control" id="form-telefon" placeholder="örn*05012345678">
+                    </div>
+                    <div class="form-group">
+                        <label for="form-message"><span class="text-white">Mesajınız veya e-mailiniz</span></label>
+                        <textarea class="form-control" id="form-message" placeholder="Mesajınızı buraya yazın"></textarea>
+                    </div>
+                    <a href="#">
+                        <input type="button" class="btn btn-danger" value="Gönder" />
+                    </a>
+                    <div class="smedya">
+                        <a href="#"><i class="bi bi-facebook"></i></a>
+                        <a href="#"><i class="bi bi-twitter"></i></a>
+                        <a href="#"><i class="bi bi-instagram"></i></a>
+                        <a href="#"><i class="bi bi-whatsapp"></i></a>
+                    </div>
+
+                   
+                   
+                </form>      
+            </div>
+        </div>
+        <div class="col-md-6 col-sm-12">
+            <iframe class="map border-radius" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6023.013042051694!2d28.70714182195128!3d40.99228545928459!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe636d58f77f41f55!2sAvc%C4%B1lar%20Works!5e0!3m2!1str!2str!4v1671618348625!5m2!1str!2str" width="500" height="250" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+  
+</section>
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+

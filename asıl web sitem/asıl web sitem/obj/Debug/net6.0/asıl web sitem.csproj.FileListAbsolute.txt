@@ -1,0 +1,114 @@
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\bin\Debug\net6.0\appsettings.json
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.staticwebassets.runtime.json
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.exe
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.deps.json
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.runtimeconfig.json
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.dll
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.pdb
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.csproj.AssemblyReference.cache
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.AssemblyInfoInputs.cache
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.AssemblyInfo.cs
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.csproj.CoreCompileInputs.cache
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.RazorAssemblyInfo.cache
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.RazorAssemblyInfo.cs
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets\msbuild.asıl web sitem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets\msbuild.build.asıl web sitem.props
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.asıl web sitem.props
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.asıl web sitem.props
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\bundle\asıl web sitem.styles.css
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\projectbundle\asıl web sitem.bundle.scp.css
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.dll
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\refint\asıl web sitem.dll
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.pdb
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.genruntimeconfig.cache
+C:\Users\Arda\source\repos\asıl web sitem\asıl web sitem\obj\Debug\net6.0\ref\asıl web sitem.dll
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\appsettings.json
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.staticwebassets.runtime.json
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.exe
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.deps.json
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.runtimeconfig.json
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.dll
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.pdb
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.csproj.AssemblyReference.cache
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.AssemblyInfoInputs.cache
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.AssemblyInfo.cs
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.csproj.CoreCompileInputs.cache
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.RazorAssemblyInfo.cache
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.RazorAssemblyInfo.cs
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\bundle\asıl web sitem.styles.css
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\projectbundle\asıl web sitem.bundle.scp.css
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.dll
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\refint\asıl web sitem.dll
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.pdb
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.genruntimeconfig.cache
+C:\Users\Robotik\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\ref\asıl web sitem.dll
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\appsettings.json
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.staticwebassets.runtime.json
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.exe
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.deps.json
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.runtimeconfig.json
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.dll
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.pdb
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.csproj.AssemblyReference.cache
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.AssemblyInfoInputs.cache
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.AssemblyInfo.cs
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.csproj.CoreCompileInputs.cache
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.RazorAssemblyInfo.cache
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.RazorAssemblyInfo.cs
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\bundle\asıl web sitem.styles.css
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\projectbundle\asıl web sitem.bundle.scp.css
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.dll
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\refint\asıl web sitem.dll
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.pdb
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.genruntimeconfig.cache
+C:\Users\ULUĞ BEY 1\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\ref\asıl web sitem.dll
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\appsettings.json
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.staticwebassets.runtime.json
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.exe
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.deps.json
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.runtimeconfig.json
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.dll
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\bin\Debug\net6.0\asıl web sitem.pdb
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.AssemblyInfoInputs.cache
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.AssemblyInfo.cs
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.RazorAssemblyInfo.cache
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.RazorAssemblyInfo.cs
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets\msbuild.asıl web sitem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets\msbuild.build.asıl web sitem.props
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.asıl web sitem.props
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.asıl web sitem.props
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\bundle\asıl web sitem.styles.css
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\scopedcss\projectbundle\asıl web sitem.bundle.scp.css
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.dll
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\refint\asıl web sitem.dll
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.pdb
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\asıl web sitem.genruntimeconfig.cache
+C:\Users\Arda\Desktop\asıl web sitem\asıl web sitem\obj\Debug\net6.0\ref\asıl web sitem.dll

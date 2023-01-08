@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\asıl web sitem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\asıl web sitem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\156174057_277700160392674_3054330795690670288_n.jpg",
+      "PackagePath": "staticwebassets\\img\\156174057_277700160392674_3054330795690670288_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\164109449_2749274961864040_2084322851833890755_n.jpg",
+      "PackagePath": "staticwebassets\\img\\164109449_2749274961864040_2084322851833890755_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\195938871_315782536808569_6088311431740022988_n.jpg",
+      "PackagePath": "staticwebassets\\img\\195938871_315782536808569_6088311431740022988_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\196474112_307868290820515_6536639344321650248_n.jpg",
+      "PackagePath": "staticwebassets\\img\\196474112_307868290820515_6536639344321650248_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\251559802_1883095838538209_2288821512043381208_n.jpg",
+      "PackagePath": "staticwebassets\\img\\251559802_1883095838538209_2288821512043381208_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\274532741_537721144120994_2642918025404847056_n.jpg",
+      "PackagePath": "staticwebassets\\img\\274532741_537721144120994_2642918025404847056_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\3m-cs-serisi-cam-filmleri.JPG",
+      "PackagePath": "staticwebassets\\img\\3m-cs-serisi-cam-filmleri.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\basıkk - Kopya.jpg",
+      "PackagePath": "staticwebassets\\img\\basıkk - Kopya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\far-temizligi-detay.jpg",
+      "PackagePath": "staticwebassets\\img\\far-temizligi-detay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\hd-wallpaper-g8e4d95b80_1920.jpg",
+      "PackagePath": "staticwebassets\\img\\hd-wallpaper-g8e4d95b80_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\led-garage-lightning-ii-black-edition-9006-hb4-14-P-2.jpg",
+      "PackagePath": "staticwebassets\\img\\led-garage-lightning-ii-black-edition-9006-hb4-14-P-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\pngwing.com.png",
+      "PackagePath": "staticwebassets\\img\\pngwing.com.png"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\pugeot - Kopya.jpg",
+      "PackagePath": "staticwebassets\\img\\pugeot - Kopya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\qashqai-carplay.JPG",
+      "PackagePath": "staticwebassets\\img\\qashqai-carplay.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\shutterstock_143949745-800x531.jpg",
+      "PackagePath": "staticwebassets\\img\\shutterstock_143949745-800x531.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\supra çakması 2 - Kopya.jpg",
+      "PackagePath": "staticwebassets\\img\\supra çakması 2 - Kopya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\supra çakmsı - Kopya.jpg",
+      "PackagePath": "staticwebassets\\img\\supra çakmsı - Kopya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\img\\web 1.png",
+      "PackagePath": "staticwebassets\\img\\web 1.png"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arda\\Desktop\\asıl web sitem\\asıl web sitem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.asıl web sitem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.asıl web sitem.props",
+      "PackagePath": "build\\asıl web sitem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.asıl web sitem.props",
+      "PackagePath": "buildMultiTargeting\\asıl web sitem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.asıl web sitem.props",
+      "PackagePath": "buildTransitive\\asıl web sitem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
